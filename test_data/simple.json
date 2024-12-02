@@ -1,0 +1,18 @@
+{
+    "user": {
+        "user_name": "mathijs@mail.com",
+        "token": "00112233"
+    },
+    "materials": [
+        {
+            "name": "material1",
+            "youngs_modulus_MPa": 210000,
+            "poisson_coeff": 0.3
+        },
+        {
+            "name": "material2",
+            "youngs_modulus_MPa": 200000,
+            "poisson_coeff": 0.33
+        }
+    ]
+}
